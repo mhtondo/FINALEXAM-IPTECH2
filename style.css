@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+  width: 50vw;
+  color: #ffffff;
+  background: url("https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-6/259122678_3095710810553092_6832212208488307371_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGZo-OD2L3Ink5anQKegN1n__qIzqXhXDz_-ojOpeFcPIdIYAnzBtdKIGqcFpQkeBgCO29UwaTZ3SALcOZC3bd-&_nc_ohc=KtcIz6XggoMAX-HU5cC&_nc_ht=scontent.fmnl9-3.fna&oh=00_AT8ZYN8v-80-vf_tGU_uc2beIb1M3fqNa7cCmoK0_8gUGw&oe=62A64BA1");
+}
+
+.logo {
+  display: block;
+  margin-left: 80%;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom:5%;
+  width: 50%;
+}
